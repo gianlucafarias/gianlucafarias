@@ -1,9 +1,13 @@
 <h1 align="center">
-  Hola, soy Gianluca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  Hi, I'm Gianluca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 </h1>
 
 <p align="center">
-  Desarrollador Full-Stack • Apasionado por el <strong>Open Source</strong> • Fan del 🧉  
+  <a href="./README.es.md">🇪🇸 Leer en español</a>
+</p>
+
+<p align="center">
+  Full-Stack Developer • Passionate about <strong>Open Source</strong> • Yerba Mate enthusiast 🧉  
 </p>
 
 <div align="center">
@@ -19,48 +23,47 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-Soy desarrollador **Full-Stack** con experiencia práctica en el desarrollo de aplicaciones web usando **React**, **Angular**, **Node.js**, y **Next.js**. Me apasiona crear soluciones que impacten positivamente, especialmente en contextos sociales o gubernamentales.
+I'm a **Full-Stack Developer** with hands-on experience building web applications using **React**, **Angular**, **Node.js**, and **Next.js**. I'm passionate about building solutions that make a real impact, especially in public and social sectors.
 
-🔹 Actualmente trabajando en el **Gobierno de la Ciudad de Ceres**, desarrollando soluciones digitales para ciudadanos.  
-🔹 Estudiante de **Tecnicatura Universitaria en Programación** (UTN - FRRA).  
-🔹 Busco proyectos desafiantes, con impacto real y donde pueda seguir aprendiendo.
-
+🔹 Currently working at the **City Government of Ceres**, developing digital tools for citizens.  
+🔹 Pursuing a **Technical Degree in Programming** (UTN - FRRA).  
+🔹 Looking for challenging, real-world projects where I can keep growing.
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
-- **Lenguajes**: TypeScript, Go, JavaScript  
+- **Languages**: TypeScript, Go, JavaScript  
 - **Frontend**: React, Next.js, Angular, Material UI  
 - **Backend**: Node.js, Express, REST APIs  
-- **Bases de datos**: PostgreSQL, MySQL, SQL Server  
-- **Herramientas**: Git, Firebase Auth, Docker, Scrum, Kanban  
+- **Databases**: PostgreSQL, MySQL, SQL Server  
+- **Tools**: Git, Firebase Auth, Docker, Scrum, Kanban  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 ### 🧠 [MenteSana.app](https://mentesana.app)
-> Plataforma de bienestar adolescente que combina registro emocional y mensajes personalizados con IA.  
-> Proyecto financiado por el programa **Eureka**.
+> A mental health platform for teenagers that combines mood tracking and personalized messages via AI.  
+> Funded by the **Eureka** innovation program.
 
-🛠️ *React, Node.js, IA, PostgreSQL*
-
----
-
-### 🏛️ [Ceresito (Chatbot del Gobierno de la Ciudad de Ceres)](https://bit.ly/holaceresito)
-> Chatbot en WhatsApp usado diariamente por cientos de ceresinos. Gestiona trámites, reclamos y pagos.  
-> Redujo en un 30% los reclamos presenciales.
-
-🛠️ *Node.js, Express, builderbot, Whatsapp API, OpenAI API*
+🛠️ *React, Node.js, AI, PostgreSQL*
 
 ---
 
-### 🎓 [Incubadora del NOC (XAcademy)](https://github.com/gianlucafarias/xacademy3-back)
-> Sistema completo de login y gestión de cursos para profesores.  
-> Autenticación con Firebase y panel frontend en Angular.
+### 🏛️ [Ceresito (Ceres City Government Chatbot)](https://bit.ly/holaceresito)
+> WhatsApp chatbot used daily by hundreds of local citizens. Handles public requests, claims, and online payments.  
+> Helped reduce in-person complaints by 30%.
+
+🛠️ *Node.js, Express, builderbot, WhatsApp API, OpenAI API*
+
+---
+
+### 🎓 [NOC Incubator (XAcademy)](https://github.com/gianlucafarias/xacademy3-back)
+> Complete course management and login system for teachers.  
+> Includes Firebase Auth and an Angular admin dashboard.
 
 🛠️ *Angular, Firebase, Material, Node.js*
 
@@ -75,16 +78,17 @@ Soy desarrollador **Full-Stack** con experiencia práctica en el desarrollo de a
 
 ---
 
-## 🤝 Colaboraciones y comunidad
+## 🤝 Collaboration & Community
 
-Estoy abierto a colaborar en proyectos de impacto social, educación o tecnología pública. Si estás trabajando en algo relacionado, ¡conectemos!
+I'm open to collaborating on impactful tech projects related to public services, education, or mental health.  
+If you're building something meaningful — let's connect!
 
-📫 **Contacto rápido**:
+📫 **Contact me**:
 - Email: palmiergianluca@gmail.com  
 - LinkedIn: [linkedin.com/in/gianlucapalmier](https://www.linkedin.com/in/gianlucapalmier)
 
 ---
 
 <p align="center">
-  Hecho con ❤️ desde Ceres, Santa Fe, Argentina
+  Made with ❤️ from Ceres, Santa Fe, Argentina
 </p>
