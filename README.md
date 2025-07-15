@@ -50,7 +50,7 @@ Soy desarrollador **Full-Stack** con experiencia práctica en el desarrollo de a
 
 ---
 
-### 🏛️ [Ceresito (Chatbot gubernamental)](https://bit.ly/holaceresito)
+### 🏛️ [Ceresito (Chatbot del Gobierno de la Ciudad de Ceres)](https://bit.ly/holaceresito)
 > Chatbot en WhatsApp usado diariamente por cientos de ceresinos. Gestiona trámites, reclamos y pagos.  
 > Redujo en un 30% los reclamos presenciales.
 
