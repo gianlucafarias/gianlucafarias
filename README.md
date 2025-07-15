@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer • Passionate about <strong>Open Source</strong> • Yerba Mate enthusiast 🧉  
+  Full-Stack Developer • Passionate about <strong>Open Source</strong> • Mate enthusiast 🧉  
 </p>
 
 <div align="center">
