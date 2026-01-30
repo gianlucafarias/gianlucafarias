@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Desarrollador Full-Stack • 🧉  
+  Full-Stack Developer • React, Angular, Typescript, Node.js, Next.js, Astro, NestJS, Postgresql • 🧉
 </p>
 
 <div align="center">
