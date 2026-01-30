@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Gianluca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  Hey, I'm Gianluca 🇦🇷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> 
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer • 🧉  
+  Full-Stack Developer • React, Angular, Typescript, Node.js, Next.js, Astro, NestJS, Postgresql • 🧉  
 </p>
 
 <div align="center">
@@ -59,12 +59,9 @@ I'm a **Full-Stack Developer** with hands-on experience building web application
 ---
 
 ## 📈 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=gianlucafarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gianlucafarias&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucafarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ---
 
@@ -75,7 +72,7 @@ If you're building something meaningful — let's connect!
 
 📫 **Contact me**:
 - Email: palmiergianluca@gmail.com
-- https://gianluca.dev/ 
+- Portfolio: https://gianluca.dev/ 
 - LinkedIn: [linkedin.com/in/gianlucapalmier](https://www.linkedin.com/in/gianlucapalmier)
 
 ---
