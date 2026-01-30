@@ -70,7 +70,7 @@ Estoy abierto a colaborar en proyectos de impacto social, educación o tecnolog�
 
 📫 **Contacto rápido**:
 - Email: palmiergianluca@gmail.com
-- https://gianluca.dev/ 
+- Portfolio: https://gianluca.dev/ 
 - LinkedIn: [linkedin.com/in/gianlucapalmier](https://www.linkedin.com/in/gianlucapalmier)
 
 ---
