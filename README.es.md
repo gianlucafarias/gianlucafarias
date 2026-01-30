@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Desarrollador Full-Stack • Apasionado por el <strong>Open Source</strong> • Fan del 🧉  
+  Desarrollador Full-Stack • 🧉  
 </p>
 
 <div align="center">
@@ -24,15 +24,8 @@
 Soy desarrollador **Full-Stack** con experiencia práctica en el desarrollo de aplicaciones web usando **React**, **Angular**, **Node.js**, y **Next.js**. Me apasiona crear soluciones que impacten positivamente, especialmente en contextos sociales o gubernamentales.
 
 🔹 Actualmente trabajando en el **Gobierno de la Ciudad de Ceres**, desarrollando soluciones digitales para ciudadanos.  
-🔹 Estudiante de **Tecnicatura Universitaria en Programación** (UTN - FRRA).  
+🔹 **Técnico Universitario en Programación** (UTN - FRRA) - 2023 - 2025.  
 🔹 Busco proyectos desafiantes, con impacto real y donde pueda seguir aprendiendo.
-
-
----
-
-## 🛠️ Stack técnico
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
----
 
 ---
 
@@ -76,7 +69,8 @@ Soy desarrollador **Full-Stack** con experiencia práctica en el desarrollo de a
 Estoy abierto a colaborar en proyectos de impacto social, educación o tecnología pública. Si estás trabajando en algo relacionado, ¡conectemos!
 
 📫 **Contacto rápido**:
-- Email: palmiergianluca@gmail.com  
+- Email: palmiergianluca@gmail.com
+- https://gianluca.dev/ 
 - LinkedIn: [linkedin.com/in/gianlucapalmier](https://www.linkedin.com/in/gianlucapalmier)
 
 ---
